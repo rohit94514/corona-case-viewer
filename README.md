@@ -28,8 +28,3 @@ tkinter (GUI of the application)
   Click on Submit Button and get your information
   
   ![Screenshot (42)](https://user-images.githubusercontent.com/69725182/127030808-6eb426ce-1087-4c71-a58a-bda8c95efcc9.png)
-
-
-## Credit 
-
-This is a freelance project which is made by me and the project idea goes to its owner "Vikram Mane".
